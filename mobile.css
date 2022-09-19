@@ -1,0 +1,82 @@
+@media screen and (max-width: 810px) {
+         .banner {
+
+        display: block;
+        text-align: center;
+        height: 40px;
+        width: 100%;
+        text-decoration: underline;
+        margin-bottom: 40px;
+
+
+       }
+       header .banner {
+        height: 40px;
+        margin-bottom: 40px;
+       }
+       h4 {
+        display: block;
+        padding-bottom: 10px;
+        padding-top: 10px;
+       }
+       img {
+        /* display: block; */
+        /* flex-wrap: wrap; */
+        width: 100%;
+        text-align: center;
+        flex-direction: column;
+        height: 150px;
+       }
+       .img img {
+        /* display: block; */
+        /* flex-wrap: wrap; */
+        width: 100%;
+        text-align: center;
+        flex-direction: column;
+        object-fit: cover;
+       }
+       .img {
+        /* display: block; */
+        /* flex-wrap: wrap; */
+        width: 50%;
+        text-align: center;
+        flex-direction: column;
+        display: flex;
+        padding: 20px 25% ;
+
+       }
+       .first {
+        padding-bottom: 20px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+
+       }
+       .second {
+       padding-bottom: 2px;
+
+        text-align: center;
+        display: flex;
+        justify-content: center;
+
+       }
+       .village {
+        margin-top: 200px;
+        /* margin-bottom: 50px; */
+
+       }
+       .first-section {
+              padding-top: 50px;
+       }
+       .second-section h1 {
+       font-size: 32px;
+       }
+       .h1 h1 {
+              padding-top: 35px;
+       }
+       .img1 img {
+              width: 300px;
+              height: 300px;
+              margin-bottom: 30px;
+       }
+}
